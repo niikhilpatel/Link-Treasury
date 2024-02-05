@@ -1,0 +1,1 @@
+This folder contains cheat sheet of mern stack development technologies
